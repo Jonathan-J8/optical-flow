@@ -1,4 +1,4 @@
-# Artistic Optical Flow
+# Optical Flow
 
 A Python implementation of optical flow techniques for creating artistic image morphing effects, inspired by the work of artist [Ryoichi Kurokawa](https://www.ryoichikurokawa.com).
 
